@@ -1,0 +1,17 @@
+//1. Are the Numbers Equal?
+
+//2. Find the Smallest and Biggest Numbers
+
+//3.Convert Key, Values in an Object to Array
+
+//4. Get Sum of People's Budget
+
+// getBudgets([
+//   { name: "John", age: 21, budget: 23000 },
+//   { name: "Steve",  age: 32, budget: 40000 },
+//   { name: "Martin",  age: 16, budget: 2700 }
+// ]) ➞ 65700
+
+//5.How Much is True?
+
+
